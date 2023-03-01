@@ -53,13 +53,13 @@ Per sequence quality хуже по сравнению с репликами, о�
 
 ## Диаграммы Венна
 
-![venn11](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn11.png)
+![venn11](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn11.jpg)
 
-![venn12](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn12.png)
+![venn12](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn12.jpg)
 
-![venn21](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn21.png)
+![venn21](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn21.jpg)
 
-![venn22](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn22.png)
+![venn22](https://github.com/Deuqz/hse_hw2_chip/blob/master/pictures/venn22.jpg)
 
 Мы получили пики только для выравнивания на одну хромосому, а в референсном файле должны быть пики для всех хромосом,
 поэтому в нем сильно больше пиков. Для каждой реплики у нас суммарно около 1000 пересечений. 
